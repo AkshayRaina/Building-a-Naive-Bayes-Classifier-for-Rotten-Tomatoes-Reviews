@@ -27,3 +27,6 @@ References:
 [6] https://www.dataquest.io/blog/naive-bayes-tutorial/ 
 
 [7] https://stackabuse.com/the-naive-bayes-algorithm-in-python-with-scikit-learn/ 
+
+
+Do not Plagiarise | Submitted Report for project
